@@ -94,5 +94,5 @@ POST /api/v1/dbs/{name}/query/natural
 继续完成 phase 4 到 phase 6 的开发实现。
 完成 phse 7 的测试和文档编写工作，有需要我配合的，请及时和我沟通。
 
-
+针对新添加的应用模块，更新下 @docs/README.md。
 
